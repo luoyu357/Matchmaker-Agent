@@ -2,7 +2,7 @@
 	{
 	"uniqueID" : "1234567890"
 	"operation" : "query",                               
-	"ROID":"http://sead_12Y23W9", 
+	"ROID" : "http://sead_12Y23W9", 
     "contentUrl" : "sample download link"
     }
 }
